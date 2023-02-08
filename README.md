@@ -10,7 +10,7 @@ Hi, I'm Corey Edh, a recent Computer Science graduate from California State Univ
 
 ## Projects 
 
-### iOS Projects
+### iOS
 
 #### [Hykerr](https://github.com/c-edh/Hykerr)
 
@@ -22,7 +22,7 @@ Hi, I'm Corey Edh, a recent Computer Science graduate from California State Univ
 
 #### [SignCrackerApp](https://github.com/c-edh/SignCrackerApp)
 
-### Python Projects
+### Python
 
 #### [Document Remediation](https://github.com/c-edh/Document-Remediation)
 
