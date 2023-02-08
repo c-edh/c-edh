@@ -6,3 +6,25 @@ Hi, I'm Corey Edh, a recent Computer Science graduate from California State Univ
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coreyedh/)
+
+
+## Projects 
+
+### iOS Projects
+
+#### [Hykerr](https://github.com/c-edh/Hykerr)
+
+#### [SpaceX Launch](https://github.com/c-edh/iOS-SpaceX-Launches)
+
+#### [GitHub Searcher](https://github.com/c-edh/GitHubSearcher)
+
+#### [Breaking Bad Characters](https://github.com/c-edh/iOSBreakingBadCharacter)
+
+#### [SignCrackerApp](https://github.com/c-edh/SignCrackerApp)
+
+### Python Projects
+
+#### [Document Remediation](https://github.com/c-edh/Document-Remediation)
+
+
+
