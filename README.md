@@ -1,7 +1,7 @@
 # Hi, I'm Corey Edh! 👋 📱💻
 
 ## 🚀 About Me
-Hi, I'm Corey Edh, a recent Computer Science graduate from California State University, Stanislaus. With a passion for mobile development. I love making programs because its fun to see people use the things your made! That is why I love iOS development, because I get to see things I make in the palm of people's hand. Follow my GitHub profile to see my work and join me in my journey to build intuitive, user-friendly apps. #iosdev #swift #mobileapps 
+Hi, I'm Corey Edh, a Computer Science graduate from California State University, Stanislaus. With a passion for mobile development. I love making programs because its fun to see people use the things your made! That is why I love iOS development, because I get to see things I make in the palm of people's hand. Follow my GitHub profile to see my work and join me in my journey to build intuitive, user-friendly apps. #iosdev #swift #mobileapps 
 
 ## 🔗 Links
 
