@@ -12,11 +12,13 @@ Hi, I'm Corey Edh, a Computer Science graduate from California State University,
 
 ### iOS
 
-#### [Hykerr](https://github.com/c-edh/Hykerr)
+#### [Bible App](https://github.com/c-edh/Bible-App)
 
 #### [SpaceX Launch](https://github.com/c-edh/iOS-SpaceX-Launches)
 
 #### [GitHub Searcher](https://github.com/c-edh/GitHubSearcher)
+
+#### [Hykerr](https://github.com/c-edh/Hykerr)
 
 #### [Breaking Bad Characters](https://github.com/c-edh/iOSBreakingBadCharacter)
 
