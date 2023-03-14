@@ -18,6 +18,8 @@ Hi, I'm Corey Edh, a Computer Science graduate from California State University,
 
 #### [GitHub Searcher](https://github.com/c-edh/GitHubSearcher)
 
+#### [PrayerRequest (work in progress)](https://github.com/c-edh/PrayerRequest) 
+
 #### [Hykerr](https://github.com/c-edh/Hykerr)
 
 #### [Breaking Bad Characters](https://github.com/c-edh/iOSBreakingBadCharacter)
